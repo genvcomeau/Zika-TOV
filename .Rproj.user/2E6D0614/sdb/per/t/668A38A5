@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1501002245763.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "668A38A5",
+    "lastKnownWriteTime" : 3419473789575321445,
+    "last_content_update" : 1501002245763,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "j3b9gpjrmt",
+        "caption" : "tov.G1.3.uniq.pos",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=tov.G1.3.uniq.pos&cache_key=j3b9gpjrmt",
+        "displayedObservations" : 4,
+        "environment" : "",
+        "object" : "tov.G1.3.uniq.pos",
+        "totalObservations" : 4,
+        "variables" : 14
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
